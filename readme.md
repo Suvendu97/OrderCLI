@@ -1,5 +1,5 @@
 
-# <span style="color:navy">Project Name:</span> *Hospital API*
+# <span style="color:navy">Project Name:</span> *ORDER-CLI*
 
 ## <span style="color:navy">Description:</span> add and find order using Command Line
 
@@ -7,11 +7,11 @@
 
 ## <span style="color:navy">Technologies and Softwares:</span>
 
-*
-Node.js
-MongoDB
-Robo3T
-gitbash*
+
+- Node.js
+- MongoDB
+- Robo3T
+- gitbash
 
 ## <span style="color:navy">Features:</span>
 
@@ -28,15 +28,15 @@ gitbash*
 ## <span style="color:navy">Run and Test:</span>
 - Launch  any terminal (like gitbash) and type `order-cli` to see all the available option
 - type `order-cli add` or `order-cli a` to add an order and then fill all the details
-- type `order-cli find` to find a order (to find a order you should type the customer name, so the command will be link `order-cli Suvendu`)
+- type `order-cli find` to find a order (to find a order you should type the customer name, so the command will be link `order-cli find Suvendu`)
 
   
 ## <span style="color:navy">Project Setup:</span>
 
 
-**<span style="color:darksalmon">Environment: </span>**  *Windows 10*
-**<span style="color:darksalmon">Terminal: </span>**  *gitBash*
-**<span style="color:darksalmon">NPM: </span>**
+- **<span style="color:darksalmon">Environment: </span>**  *Windows 10*
+- **<span style="color:darksalmon">Terminal: </span>**  *gitBash*
+- **<span style="color:darksalmon">NPM: </span>**
 			
 
  - commander

@@ -1,0 +1,18 @@
+{
+  "name": "order-cli",
+  "version": "1.0.0",
+  "description": "Order Management CLI",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suvendu Polley",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.0.0",
+    "inquirer": "^7.3.3",
+    "mongoose": "^5.11.13"
+  }
+}
